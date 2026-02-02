@@ -1,4 +1,5 @@
 package Java;
+//Even and Odd Without %
 
 import java.util.Scanner;
 

@@ -1,6 +1,7 @@
 package Java;
 
 import java.util.Scanner;
+//Fact
 
 public class Fact {
   public static void main(String[] args) {

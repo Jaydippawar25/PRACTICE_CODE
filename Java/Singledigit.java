@@ -1,5 +1,6 @@
 package Java;
 
+//singledigit
 import java.util.Scanner;
 
 public class Singledigit {
@@ -8,7 +9,7 @@ public class Singledigit {
 
     System.out.println("Enter a number: ");
     int num = sc.nextInt();
-    while (num > 10) {
+    while (num >= 10) {
       int sum = 0;
       while (num > 0) {
         sum = sum + num % 10;

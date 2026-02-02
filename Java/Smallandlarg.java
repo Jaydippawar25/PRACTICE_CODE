@@ -1,7 +1,7 @@
 package Java;
 
 import java.util.Scanner;
-//Smallest & largest no
+//Smallest & largest no in array
 
 public class Smallandlarg {
   public static void main(String[] args) {

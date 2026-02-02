@@ -1,6 +1,7 @@
 package Java;
 
 import java.util.Scanner;
+//Prime
 
 public class Prime {
   public static void main(String[] args) {

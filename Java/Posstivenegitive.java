@@ -2,6 +2,7 @@ package Java;
 
 import java.util.Scanner;
 
+//Postive negitive
 public class Posstivenegitive {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);

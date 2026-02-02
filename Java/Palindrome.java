@@ -1,6 +1,7 @@
 package Java;
 
 import java.util.Scanner;
+//Palindrome
 
 class Palindrome {
 
