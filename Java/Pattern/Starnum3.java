@@ -14,5 +14,9 @@ public class Starnum3 {
       System.out.println();
     }
   }
+  // 1
+  // 12
+  // 123
+  // 1234
 
 }

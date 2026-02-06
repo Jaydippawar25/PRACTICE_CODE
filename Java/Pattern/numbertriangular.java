@@ -11,11 +11,13 @@ public class numbertriangular {
       for (int j = 0; j <= num - i; j++) {
         System.out.print(" ");
       }
-      for (int k = 0; k < 2 * i; k++) {
+      for (int k = 0; k < 2 * i - 1; k++) {
         System.out.print(i);
       }
       System.out.println();
     }
   }
-
+  // 1
+  // 222
+  // 33333
 }
