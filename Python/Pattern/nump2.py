@@ -2,7 +2,7 @@ num=int(input("Enter a no of rows:"))
 
 for i in range(1,num+1):
   for j in range(i):
-    print(i,end="")
+    print(i,end=" ")
   print()
   
 
